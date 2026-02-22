@@ -1,6 +1,6 @@
 ### This website is designed to demonstrate proof of competency rather then traditional experience in machine learning engineering. 
 #### The curriculum of a mechanical engineering degree is designed to cultivate and embed an analytical, resourceful, and innovative mindset focused on solving complex physical problems through logic and creativity. Engineers devolop a systems-thinking approach, balancing technical precision with safety, ethical, and economic considerations to design, test, and improve machines and systems. 
-#### Performed web searches to discover which skills and tools are required of a machine learning engineer, returned results included but not limited from; MIT, Harvard, Standford, Univeristy of Chicago..., strongly suggest similar curriculum design intent as professionals with both academic and practical experience.
+#### Performed web searches to discover which skills and tools are required of a machine learning engineer. The searches returned results from: MIT, Harvard, Standford, Univeristy of Chicago... Their curiculum  design intent is similar to that of mechinical engineering.
 
 |**Mapping Quality/Production Engineering and Technical Writing terminology**|**With Machine Learning Engineer jargon**|**Portable Skills and abilities**|
 | :---: | :---: | :---: |
