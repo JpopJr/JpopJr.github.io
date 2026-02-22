@@ -10,4 +10,4 @@
 |Communicating Complex Findings|Model Interpretability/Explanable AI(XAI)/Stakeholder Reporting||
 |Data Analyst|Data Scientist/Machine learning Engineer||
 
-#### My autodidactic and eclectic character traits, combined with the dicipline and focus assimulated through school, and skill stacking professional expericences, make it highly probable and statistically viable for me to effectively function with the same technical skills as expected from a Machine Learning Engineer.
+#### My autodidactic and eclectic character traits, combined with the dicipline and focus assimulated through school with the skill stacking from professional expericences, make it highly probable and statistically viable for me to effectively function with the same technical skills as expected from a Machine Learning Engineer once I have assimulated its curriculum.
